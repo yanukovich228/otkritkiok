@@ -1,0 +1,25 @@
+!!brut.androlib.apk.ApkInfo
+apkFileName: reestr.apk
+doNotCompress:
+- resources.arsc
+- png
+- jpg
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+resourcesAreCompressed: false
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '29'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.8.1
+versionInfo:
+  versionCode: '6038467'
+  versionName: 60.38.4.67
